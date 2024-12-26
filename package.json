@@ -19,7 +19,7 @@
     "url": "git+https://github.com/kxng0109/basic-note-authentication-app.git"
   },
   "author": "Joshua",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/kxng0109/basic-note-authentication-app/issues"
   },
