@@ -1,4 +1,8 @@
 {
+  "name": "basic-auth-app",
+  "version": "1.0.0",
+  "description": "A basic authentication app in nodejs",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon test.js"
@@ -7,10 +11,6 @@
     "base-64": "^1.0.0",
     "express": "^4.21.2"
   },
-  "name": "basic-auth-app",
-  "version": "1.0.0",
-  "description": "A basic authentication app in nodejs",
-  "main": "index.js",
   "devDependencies": {
     "nodemon": "^3.1.9"
   },
