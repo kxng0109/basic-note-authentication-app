@@ -23,11 +23,12 @@ To get this project running locally, follow these steps:
    cd task-management-app
    ```
 
-2. Run the application:
+2. **Run the application**:
   ```bash
   npm start
   ```
 The app will run on http://localhost:3000.
 
-License
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
