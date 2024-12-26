@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon test.js"
+  },
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "express": "^4.21.2"
+  },
+  "name": "basic-auth-app",
+  "version": "1.0.0",
+  "description": "A basic authentication app in nodejs",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kxng0109/basic-note-authentication-app.git"
+  },
+  "author": "Joshua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kxng0109/basic-note-authentication-app/issues"
+  },
+  "homepage": "https://github.com/kxng0109/basic-note-authentication-app#readme"
+}
