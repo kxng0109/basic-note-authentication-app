@@ -19,8 +19,8 @@ To get this project running locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/kxng0109/task-management-app.git
-   cd task-management-app
+   git clone https://github.com/kxng0109/basic-note-authentication-app.git
+   cd basic-note-authentication-app
    ```
 
 2. **Run the application**:
