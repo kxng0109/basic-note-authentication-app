@@ -19,7 +19,7 @@ To get this project running locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/task-management-app.git
+   git clone https://github.com/kxng0109/task-management-app.git
    cd task-management-app
    ```
 
